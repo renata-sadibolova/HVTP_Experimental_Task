@@ -8,7 +8,7 @@ Preprint: https://www.medrxiv.org/content/10.1101/2024.02.09.24302276v1
 2. Five Helper Functions: 
      - Counterbalancing
      - Define Parameters
-     - Key 5/FscvV pulses
+     - Key 5/FSCV pulses
      - Training phase
      - Experimental phase
 
