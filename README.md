@@ -8,7 +8,7 @@ Preprint: https://www.medrxiv.org/content/10.1101/2024.02.09.24302276v1
 2. Five Helper Functions: 
      - Counterbalancing
      - Define Parameters
-     - Key 5/FSCV pulses
+     - Key 5 (piloting) or FSCV pulses (surgery)
      - Training phase
      - Experimental phase
 
@@ -18,6 +18,7 @@ Preprint: https://www.medrxiv.org/content/10.1101/2024.02.09.24302276v1
 
 
 # Overview
+Software: Psychtoolbox-3 (please follow installation instructions at http://psychtoolbox.org/) in MATLAB R2018b (MathWorks, Natick, USA). Typical install time 2 hours. Hardware: Two computer screens, Logitech controller (or a keyboard).
 
 The programme runs a visual variant of the temporal bisection task. Circles
 appear on the screen, one at the time, for specified time intervals.
